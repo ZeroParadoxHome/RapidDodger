@@ -11,6 +11,12 @@ RapidDodger is an exciting arcade game developed by [[ZeroParadoxHome](https://g
 - Colorful graphics and engaging sound effects.
 - High score tracking to challenge yourself and your friends.
 
+## How to run .EXE file:
+1. Download the latest .zip file from [releases](https://github.com/ZeroParadoxHome/RapidDodger/releases).
+2. Extract the .zip file.
+3. Run game via RapidDodger.exe file.
+
+
 ## Installation:
 1. Make sure you have [Python 3](https://www.python.org/downloads/) installed on your system.
    
