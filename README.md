@@ -16,7 +16,6 @@ RapidDodger is an exciting arcade game developed by [[ZeroParadoxHome](https://g
 2. Extract the .zip file.
 3. Run game via RapidDodger.exe file.
 
-
 ## Installation:
 1. Make sure you have [Python 3](https://www.python.org/downloads/) installed on your system.
    
