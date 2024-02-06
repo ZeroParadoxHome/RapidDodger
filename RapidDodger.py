@@ -500,9 +500,9 @@ def game_loop():
             if current_shape_index == len(shapes):
                 current_shape_index = 0
             if dodged % 5 == 0:
-                obstacle_speed += elapsed_time * 0.03
-                obstacle_width += 9
-                obstacle_height += 9
+                obstacle_speed += elapsed_time * 0.01
+                obstacle_width += 5
+                obstacle_height += 5
                 shape_colors = {
                     "square": random.choice(color_list),
                     "rectangle": random.choice(color_list),
